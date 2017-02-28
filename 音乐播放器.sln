@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "音乐播放器", "音乐播放器\音乐播放器.vcxproj", "{F51D82D4-F06F-4DD6-9913-18D37D5943A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D8BA12EB-1891-4F02-BC79-5923B2095927}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51D82D4-F06F-4DD6-9913-18D37D5943A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F51D82D4-F06F-4DD6-9913-18D37D5943A1}.Debug|Win32.Build.0 = Debug|Win32
+		{F51D82D4-F06F-4DD6-9913-18D37D5943A1}.Release|Win32.ActiveCfg = Release|Win32
+		{F51D82D4-F06F-4DD6-9913-18D37D5943A1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
