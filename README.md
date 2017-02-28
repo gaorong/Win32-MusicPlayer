@@ -1,5 +1,5 @@
 # Win32-MusicPlayer
 a tiny music player based on Win32.
-
- ![image](https://github.com/Win32-MusicPlayer/Release/musicPlayer.jpg)
+you can execute the './release/MusicPlayer' to have a try.
+ ![image](https://github.com/GaoRong/Win32-MusicPlayer/blob/master/Release/musicPlayer.png)
 
